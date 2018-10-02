@@ -7,4 +7,23 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   font-size: 1.5rem;
+  color: #3f1622;
+}
+
+nav ol{
+  list-style-type: none;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+}
+
+a,
+a:link {
+  color: #8f2440;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
