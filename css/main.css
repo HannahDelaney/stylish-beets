@@ -33,10 +33,11 @@ a:hover {
 figure {
   font-size: .8rem;
   font-style: italic;
+  text-align: center;
 }
 
 img {
-  width: 500px;
+  width: 680px;
 }
 
 .days {
