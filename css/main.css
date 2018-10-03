@@ -12,7 +12,7 @@ h1 {
   color: #3f1622;
 }
 
-nav ol{
+nav ol {
   list-style-type: none;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
@@ -65,6 +65,14 @@ ol {
   list-style-type: lower-greek;
 }
 
-p {
+nav p {
   font-style: italic;
+}
+
+dl dt {
+  font-weight: bold;
+}
+
+footer {
+  font-size: 1.125rem;
 }
