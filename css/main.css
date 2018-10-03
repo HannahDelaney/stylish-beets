@@ -3,6 +3,8 @@ html {
   line-height: 1.5;
   color: #222;
   font-weight: normal;
+  border-width: 608px;
+  height: 1635px;
 }
 
 h1 {
@@ -37,7 +39,7 @@ figure {
 }
 
 img {
-  width: 680px;
+  width: 100%;
 }
 
 .days {
