@@ -39,7 +39,7 @@ img {
   width: 500px;
 }
 
-main div p {
+.days {
   font-size: 1.125rem;
   font-weight: bold;
 }
@@ -69,7 +69,7 @@ ol {
   list-style-type: lower-greek;
 }
 
-nav p {
+.serving {
   font-style: italic;
 }
 
